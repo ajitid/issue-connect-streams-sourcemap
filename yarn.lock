@@ -2278,6 +2278,11 @@ ajv@^8.0.0, ajv@^8.6.0, ajv@^8.8.0:
     require-from-string "^2.0.2"
     uri-js "^4.2.2"
 
+amazon-connect-streams@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/amazon-connect-streams/-/amazon-connect-streams-2.0.0.tgz#1639278557f1e56e924cd19e1e7e52c8b466d89f"
+  integrity sha512-d6PkxLg9h49aVIXL7kKPg86nQg5fgPYsffOic/T0bLWqlSwsnDCMSY3+eGXtrw9C4QPX6EFexBUgs/7KI8PD1g==
+
 ansi-escapes@^4.2.1, ansi-escapes@^4.3.1:
   version "4.3.2"
   resolved "https://registry.yarnpkg.com/ansi-escapes/-/ansi-escapes-4.3.2.tgz#6b2291d1db7d98b6521d5f1efa42d0f3a9feb65e"
